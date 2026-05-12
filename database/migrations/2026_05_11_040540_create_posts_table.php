@@ -1,3 +1,4 @@
+php artisan migrate --path=/database/migrations/2026_05_11_040540_create_posts_table.php
 <?php
 
 use Illuminate\Database\Migrations\Migration;
